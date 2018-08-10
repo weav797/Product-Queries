@@ -1,0 +1,13 @@
+E:\Semester Files\fall2017\citc2312\homework\ch11\Product Queries\Product Queries\bin\Debug\Product Queries.exe.config
+G:\flashdriveFiles\flashdrive1\Semester Files\fall2017\citc2312(c#)\homework\ch11\Product Queries\Product Queries\bin\Debug\ProductDB.mdf
+G:\flashdriveFiles\flashdrive1\Semester Files\fall2017\citc2312(c#)\homework\ch11\Product Queries\Product Queries\bin\Debug\ProductDB_log.ldf
+G:\flashdriveFiles\flashdrive1\Semester Files\fall2017\citc2312(c#)\homework\ch11\Product Queries\Product Queries\bin\Debug\Product Queries.exe.config
+G:\flashdriveFiles\flashdrive1\Semester Files\fall2017\citc2312(c#)\homework\ch11\Product Queries\Product Queries\bin\Debug\Product Queries.exe
+G:\flashdriveFiles\flashdrive1\Semester Files\fall2017\citc2312(c#)\homework\ch11\Product Queries\Product Queries\bin\Debug\Product Queries.pdb
+G:\flashdriveFiles\flashdrive1\Semester Files\fall2017\citc2312(c#)\homework\ch11\Product Queries\Product Queries\obj\Debug\Product Queries.csprojResolveAssemblyReference.cache
+G:\flashdriveFiles\flashdrive1\Semester Files\fall2017\citc2312(c#)\homework\ch11\Product Queries\Product Queries\obj\Debug\Product_Queries.Form1.resources
+G:\flashdriveFiles\flashdrive1\Semester Files\fall2017\citc2312(c#)\homework\ch11\Product Queries\Product Queries\obj\Debug\Product_Queries.Properties.Resources.resources
+G:\flashdriveFiles\flashdrive1\Semester Files\fall2017\citc2312(c#)\homework\ch11\Product Queries\Product Queries\obj\Debug\Product Queries.csproj.GenerateResource.cache
+G:\flashdriveFiles\flashdrive1\Semester Files\fall2017\citc2312(c#)\homework\ch11\Product Queries\Product Queries\obj\Debug\Product Queries.csproj.CoreCompileInputs.cache
+G:\flashdriveFiles\flashdrive1\Semester Files\fall2017\citc2312(c#)\homework\ch11\Product Queries\Product Queries\obj\Debug\Product Queries.exe
+G:\flashdriveFiles\flashdrive1\Semester Files\fall2017\citc2312(c#)\homework\ch11\Product Queries\Product Queries\obj\Debug\Product Queries.pdb
